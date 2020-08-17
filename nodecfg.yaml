@@ -1,0 +1,11 @@
+id: 2 
+addr: "2o76U4LXhTwjir8gqpShsPxHio7iFb3MR2WEEgef2y9v"
+peers: ["http://127.0.0.1:7778","http://127.0.0.1:7778"] 
+join: true
+waldir: "./log/wal"
+snapdir: "./log/snap"
+raftport: 7777
+p2pport:  8888
+member: ["127.0.0.1:8889"]
+p2pip: "127.0.0.1"
+

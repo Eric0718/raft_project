@@ -1,0 +1,6 @@
+package raftconsensus
+
+func Test_RunNode() {
+
+	RunNode()
+}
